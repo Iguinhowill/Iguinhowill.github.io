@@ -1,15 +1,12 @@
 .box{
-    position: absolute;
     background-color: #3A4042;
     display: inline-block;
     font-family:"Press Start 2P", Arial, Helvetica, sans-serif;
     box-shadow: 10px 10px 0px #000000 ;
-    margin-left: 91px;
-    margin-top: 196px;
     text-align: center;
     padding: 42px 44px;
 }
 
-.box h1{
+.box h2{
     margin-bottom: 28px;
 }
