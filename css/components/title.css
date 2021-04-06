@@ -18,29 +18,10 @@ article{
     border-right: 5px solid #000;
 }
 
-.sub-title{
-    position: absolute;
-    background-color: #3A4042;
-    width: 627px;
-    height: 184px;
-    font-family:"Press Start 2P", Arial, Helvetica, sans-serif;
-    box-shadow: 5px 5px 0px #000000 ;
-    text-shadow: 4px 4px 0px #000000 ;
-    font-style: normal;
-    font-weight: normal;
-    margin-left: 91px;
-    margin-top: 196px;
-    text-align: center;
-}
-
-.sub-title h1{
+h1{
     color: #F25A70;
     font-size: 40px;
-}
-
-.sub-title h2{
-    color: white;
-    font-size: 30px;
+    text-shadow: 4px 4px 0px #000000;
 }
 
 .button-article{
