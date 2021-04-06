@@ -23,12 +23,3 @@ h1{
     font-size: 40px;
     text-shadow: 4px 4px 0px #000000;
 }
-
-.button-article{
-    position: absolute;
-    margin-top: 418px;
-    margin-left: 69px;
-}
-.button-second{
-    margin-left: 112px;
-}

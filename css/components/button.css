@@ -4,6 +4,10 @@
     padding: 20px 18px;
     box-shadow: 5px 5px 0px #000000;
     margin-right: 0;
+    transition: transform 100ms cubic-bezier(.45,.95,.68,2.48);
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
 }
 
 .button:hover{

@@ -1,4 +1,4 @@
-#box{
+.box{
     position: absolute;
     background-color: #3A4042;
     display: inline-block;
@@ -10,6 +10,6 @@
     padding: 42px 44px;
 }
 
-#box h1{
+.box h1{
     margin-bottom: 28px;
 }
