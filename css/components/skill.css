@@ -1,0 +1,10 @@
+.skill-tecnology{
+    width: 430px;
+    height: 90px;
+    margin-bottom: 40px;
+    
+}
+
+.skill-tecnology .section-div{
+    display: inline-block;
+}
