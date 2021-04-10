@@ -1,5 +1,15 @@
-img{
+.main-logo{
     width: 60px;
     height: 60px;
     border-radius: 5px;
+}
+
+.logo_12{
+    width: 219px;
+    height: 253x;
+}
+
+.logo_123{
+    width: 280px;
+    height: 280x;
 }
