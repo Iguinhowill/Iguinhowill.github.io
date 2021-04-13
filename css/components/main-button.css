@@ -1,4 +1,4 @@
-.button{
+.main-button{
     display: inline-block;
     background-color: #f25A70;
     padding: 20px 18px;
@@ -10,17 +10,17 @@
     font-size: 20px;
 }
 
-.button:hover{
+.main-button:hover{
     background-color: #44e3ff;
     color: black;
     transform: scale(1.08);
 }
 /* 
-.button-article{
+.main-button-article{
     position: absolute;
     margin-top: 418px;
     margin-left: 69px;
 }
-.button-second{
+.main-button-second{
     margin-left: 112px;
 } */
