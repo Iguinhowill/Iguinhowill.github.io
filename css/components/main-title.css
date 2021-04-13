@@ -20,3 +20,12 @@
     text-align: center;
     padding-top: 50px;
 }
+
+.main-title._fourth {
+    color: #BA1F33;
+    font-size: 40px;
+    font-family: "Press Start 2P", Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 50px;
+    text-shadow: none;
+}
