@@ -1,4 +1,4 @@
-.banner{
+.main-banner{
     display: block;
     box-sizing:border-box;
     background-image: url(../../assets/img/iguim.png);
@@ -10,17 +10,17 @@
     padding-left: 90px;
 }
 
-.banner .wapper{
+.main-banner .wapper{
     display: flex;
     flex-direction: column;
     width: 640px;
 }
 
-.banner .box{
+.main-banner .box{
     margin-bottom: 40px;
 }
 
-.banner .navigation{
+.main-banner .navigation{
     display: flex;
     justify-content: space-around;
 }
