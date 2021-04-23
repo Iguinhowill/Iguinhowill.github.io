@@ -1,8 +1,20 @@
 .skill-tecnology{
     width: 430px;
-    height: 90px;
+    /* height: 90px; */
     margin-bottom: 40px;
-    
+}
+.skill-tecnology{
+    display: flex;
+    align-items: center;
+    font-family: 'Press Start 2P', sans-serif;
+    font-size: 25px;
+    color: #FFF;
+}
+
+.skill-tecnology .icon{
+    margin-right: 25px;
+    width: 90px;
+    height: auto;
 }
 
 .skill-tecnology .section-div{

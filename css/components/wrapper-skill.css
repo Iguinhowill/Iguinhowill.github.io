@@ -1,4 +1,4 @@
-.wrapper-skill .skill-tecnology:nth-child(odd){
+.wrapper-skill .skill-tecnology:nth-child(2n+1){
     margin-right: 100px;
 }
 
@@ -6,14 +6,8 @@
     display: flex;
     flex-wrap: wrap;
     max-width: 960px;
-    /* justify-content: center; */
     margin-left: auto;
     margin-right: auto;
-    height: 480px;
 }
 
-.wrapper-skill .icon{
-    width: 90px;
-    height: auto;
-}
 
